@@ -1,7 +1,7 @@
 ## kokako-detection
 Random Forest classifier to identify kokako calls in audio recordings
 
-**2. Use with Julia**
+**Use with Julia**
 
 There are four main files in this package, and four corresponding calls from
 within Julia. These will need be called in the following order. From within Julia
